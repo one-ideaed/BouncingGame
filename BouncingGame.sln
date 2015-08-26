@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BouncingGame.Android", "BouncingGame\BouncingGame.Android\BouncingGame.Android.csproj", "{18FE32E9-5CB1-47DE-943F-BE3155FE0CC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BouncingGame.Common", "BouncingGame\BouncingGame.Common\BouncingGame.Common.csproj", "{9563B677-835F-4B4B-AC58-B72F40ADC32B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18FE32E9-5CB1-47DE-943F-BE3155FE0CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FE32E9-5CB1-47DE-943F-BE3155FE0CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FE32E9-5CB1-47DE-943F-BE3155FE0CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FE32E9-5CB1-47DE-943F-BE3155FE0CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9563B677-835F-4B4B-AC58-B72F40ADC32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9563B677-835F-4B4B-AC58-B72F40ADC32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9563B677-835F-4B4B-AC58-B72F40ADC32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9563B677-835F-4B4B-AC58-B72F40ADC32B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
